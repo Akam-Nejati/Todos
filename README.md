@@ -7,7 +7,7 @@ I'm glad to support this small project by liking :)
 
 - [preview](http://www.todos.gigfa.com)
 
-# install
+# installation
 To install Todos on your system, just enter the following command in the folder and run Vit :
 ```
 npm i
