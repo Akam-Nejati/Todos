@@ -6,7 +6,8 @@ I'm glad to support this small project by liking :)
 # preview
 
 - [preview](http://www.todos.gigfa.com)
-![Todos](https://user-images.githubusercontent.com/106558616/177057757-32ee99da-51da-4dc1-94de-9a8e73b42620.gif)
+
+![Todos](https://user-images.githubusercontent.com/106558616/177058945-d7869e28-41c7-4ce5-9a83-17b0e943bc6c.gif)
 
 # installation
 To install Todos on your system, just enter the following command in the folder and run Vit :
