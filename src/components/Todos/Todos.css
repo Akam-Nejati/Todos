@@ -1,0 +1,11 @@
+.all{
+    @apply after:left-0 after:w-[3.25rem] sm:after:w-14
+}
+
+.done{
+    @apply after:w-[4.25rem] sm:after:w-20 after:left-[50px] sm:after:left-[55px]
+}
+
+.undone{
+    @apply after:w-[5.45rem] sm:after:w-[6.25rem] after:left-[119px] sm:after:left-[133px]
+}
