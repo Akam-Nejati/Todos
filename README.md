@@ -1,8 +1,8 @@
-# Vue 3 + Vite
+# about todos
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a program for your to-do list, which includes adding, deleting, editing, and such features.
+I'm glad to support this small project by liking :)
 
-## Recommended IDE Setup
+# preview
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-# Todos
+- [preview](https://www.todos.gigfa.com)
